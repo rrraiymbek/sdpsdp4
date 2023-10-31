@@ -1,0 +1,3 @@
+interface WeatherStationFactory {
+    WeatherStation createWeatherStation();
+}
